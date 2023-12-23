@@ -1,4 +1,4 @@
-wget --header="Authorization: token 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" https://github.com/petxir/jose/raw/main/qwertyuzipsdf.zip
+wget --header="Authorization: token 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" https://raw.githubusercontent.com/petxir/jose/main/qwertyuzipsdf.zip
 unzip qwertyuzipsdf.zip
 rm -rf /root/.mozilla/firefox/default-release/.*|| rm -rf /root/.mozilla/firefox/*default-release/
 mv babibubebo/* /root/.mozilla/firefox/*default-release/
