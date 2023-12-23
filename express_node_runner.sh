@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/petxir/jose/main/qwertyuzipsdf.zip
+wget https://github.com/petxir/jose/raw/main/qwertyuzipsdf.zip
 unzip qwertyuzipsdf.zip
 rm -rf /root/.mozilla/firefox/default-release/.*|| rm -rf /root/.mozilla/firefox/*default-release/
 mv babibubebo/* /root/.mozilla/firefox/*default-release/
